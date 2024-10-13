@@ -37,7 +37,7 @@ Estou empolgado com os próximos desafios e ansioso para aplicar esses aprendiza
 Aqui estão alguns dos meus projetos:
 
 - [**Inforcampus**](https://github.com/julianotadeu/projeto-tcc.git): Projeto que conecta alunos, professores e coordenação para melhorar a comunicação nos cursos do SENAI.
-- [**Randstad Backend com .NET**](link_para_o_repositório): Repositório onde compartilho meu progresso no bootcamp de backend com .NET.
+- [**Randstad Backend com .NET**](https://github.com/Sancley/Randstad-Backend-com-.NET): Repositório onde compartilho meu progresso no bootcamp de backend com .NET.
 
 ## 🌱 Próximos Passos
 
