@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [Sanclei]
+# 👋 Olá! Eu sou [ Sanclei ]
 
 Sou estudante de **Desenvolvimento de Sistemas** no **SENAI** e atualmente estou me aprofundando em várias tecnologias de backend e frontend. Meu objetivo é me tornar um desenvolvedor completo, criando soluções que impactem positivamente a vida das pessoas.
 
@@ -36,7 +36,7 @@ Estou empolgado com os próximos desafios e ansioso para aplicar esses aprendiza
 
 Aqui estão alguns dos meus projetos:
 
-- [**Inforcampus**](link_para_o_repositório): Projeto que conecta alunos, professores e coordenação para melhorar a comunicação nos cursos do SENAI.
+- [**Inforcampus**]([link_para_o_repositório](https://github.com/julianotadeu/projeto-tcc.git)): Projeto que conecta alunos, professores e coordenação para melhorar a comunicação nos cursos do SENAI.
 - [**Randstad Backend com .NET**](link_para_o_repositório): Repositório onde compartilho meu progresso no bootcamp de backend com .NET.
 
 ## 🌱 Próximos Passos
