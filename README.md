@@ -52,7 +52,7 @@ Estou constantemente aprimorando minhas habilidades e explorando novas tecnologi
 Vamos trocar ideias e aprender juntos! Me encontre em:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/santsouza07/)
-- 📧 [Email]([ssancley@gmail.com/](https://mail.google.com/mail/u/0/#inbox))
+- 📧 [Email]([ssancley@gmail.com/])
 
 
 <!---
