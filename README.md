@@ -53,6 +53,7 @@ Vamos trocar ideias e aprender juntos! Me encontre em:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/santsouza07/)
 - 📧 [Email]([ssancley@gmail.com/])
+<img width="302" alt="image" src="https://github.com/user-attachments/assets/d8b821d1-3cf0-441b-aeca-1e8ffac90667">
 
 
 <!---
