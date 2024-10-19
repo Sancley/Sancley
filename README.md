@@ -38,6 +38,7 @@ Aqui estão alguns dos meus projetos:
 
 - [**Inforcampus**](https://github.com/julianotadeu/projeto-tcc.git): Projeto que conecta alunos, professores e coordenação para melhorar a comunicação nos cursos do SENAI.
 - [**Randstad Backend com .NET**](https://github.com/Sancley/Randstad-Backend-com-.NET): Repositório onde compartilho meu progresso no bootcamp de backend com .NET.
+- [**Programa para Desligar o PC**](https://github.com/Sancley/programa-desligar-pc): Aplicação em Python para agendar o desligamento automático do computador.
 
 ## 🌱 Próximos Passos
 
